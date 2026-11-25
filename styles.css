@@ -1,0 +1,15 @@
+body {
+    background-color: bisque;
+}
+
+.title {
+    background-color: yellow;
+    border-color: burlywood;
+    border: 1px;
+    text-align: center;
+}
+
+#recipe-list {
+    background-color: chocolate;
+    padding: 16px 8px;
+}
